@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "MyPlugin",
+  "id": "my-plugin-panel",
+
+  "info": {
+    "description": "My first plugin panel for grafana",
+    "author": {
+      "name": "Julius Kallio",
+      "url": "http://www.atostek.com/"
+    },
+    "keywords": ["julius", "panel"],
+    "version": "1.0.0",
+    "updated": "2017-02-09"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}
